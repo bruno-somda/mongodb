@@ -8,9 +8,8 @@ export default function CloudScreen() {
                     <div className="cloud-header">
                         <h1> MongoDB Atlas</h1>
                         <p>Fully managed, global multi-cloud database on AWS,Asure and Google Cloud</p>
-                        <div className="cloud-h">
                         <h3>Recommended</h3>
-                        </div>
+                       
 
                     </div>
                     
@@ -114,7 +113,7 @@ export default function CloudScreen() {
                 
                 </div>
                 
-                <div className=""></div>
+                
                 <div className="tool">
                     <div className="tool-header">
                         <h2> Customize your deployment with tools and services</h2>
@@ -176,7 +175,7 @@ export default function CloudScreen() {
 
                 </div>
             
-        </div>
+            </div>
        
     )
 }
